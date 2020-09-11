@@ -1,6 +1,6 @@
-### Hi, I`m Alvaro 👋
+#### Hi, I'm Alvaro 👋
 
-# About me
+## About me
 
 <!--
 **alvarodedios/alvarodedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
