@@ -2,6 +2,8 @@
 
 ## About me
 
+I am a system admin and java developer 🤸‍♂️ I love learning new tech and imagining the future 🧩 I also compose music and I`m writing a Dark Souls novel 🎃
+
 <!--
 **alvarodedios/alvarodedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
