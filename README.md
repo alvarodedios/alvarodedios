@@ -1,7 +1,7 @@
 #### Hi, I'm Alvaro 👋
 
 ## About me
-I am a system admin and java developer 🤸‍♂️ I love learning new tech and imagining the future 🧩 I also compose music and I`m writing a Dark Souls novel 🎃
+I am a system admin and java developer 🤸‍♂️ I love learning new tech and imagining the future 🧩 I also enjoy composing music and I`m writing a Dark Souls novel 🎃
 
 ### Find me in:
 <a href="https://www.linkedin.com/in/alvaroddios">
